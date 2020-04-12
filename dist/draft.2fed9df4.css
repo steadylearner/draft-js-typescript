@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+#content {
+  width: 480px;
+  margin: 0 auto;
+}
+
+.editor {
+  border: 1px solid grey;
+  padding: 6px;
+}
+
+.red {
+  color: red;
+}
+
+
+/*# sourceMappingURL=/draft.2fed9df4.css.map */
